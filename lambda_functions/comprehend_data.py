@@ -3,7 +3,6 @@ import base64
 
 def lambda_handler(event, context):
 
-    output = []
 
     for record in event['records']:
         data = base64.b64decode(record['data']).decode('utf-8')

@@ -1,6 +1,6 @@
 
 
-# comprehend_project
+# Data Analyzing with AWS Comprehend
 
 `In this repository you will find a serverless project to process real time data using AWS Comprehend`
 
